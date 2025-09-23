@@ -26,3 +26,5 @@ Packages are the modification the extension does to each listed website, you can
 
   - Removes Xai super and other paid shit
 </details>
+
+A personal project by [@nikollesan](https://github.com/luanderfarias)
