@@ -15,16 +15,8 @@ I personally hate every single gambling/porn ad, upsell pages, "other people als
 
 ## Packages
 Packages are the modification the extension does to each listed website, you can disable them through the extension context menu, share, save/backup and restore your custom configurations at east in any moment.
-<details>
-  <summary>Youtube</summary>
-
-  - Removes shorts from the main page
-  - Removes "other people also watched" section
-</details>
-<details>
-  <summary>X</summary>
-
-  - Removes Xai super and other paid shit
-</details>
+| package | Changes | How does it look? |
+| :------ | :-------- | :------------------------- |
+| youtube | <details><summary>Description</summary>Removes shorts from the main page, Removes "other people also watched" section</details> | <details><summary>Screenshots</summary></details> |
 
 A personal project by [@nikollesan](https://github.com/luanderfarias)
