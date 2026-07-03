@@ -1,22 +1,26 @@
-# Unshit [experimental]
+~ unshit [experimental]
 
-Unshit is a guide including a browser extension that removes garbage and bloat from webpages.
+unshit is a web modification project removes garbage and bloat from webpages.
+> this project is highly based on my personal thoughts over each website/package modified here.
 
-The steps:
-- Download [Ublock Origin](https://github.com/gorhill/uBlock)
-- Download Unshit
-- Doesn't this looks so much better?
+~ installation
+- download [ublock origin](https://github.com/gorhill/uBlock)
+- download [personet](https://github.com/betterbrowser/personet)
+- download the latest unshit.json on releases
+- open personet and click on import config
+- select unshit.json
+- doesn't this looks so much better?
 
-Additional steps:
-- Use zen, firefox or os-browser. like seriously, do a favor for yourself.
+additional steps:
+- use zen, firefox, helium or os-browser. like seriously, do a favor for yourself.
 
-## Philosophy
-I personally hate every single gambling/porn ad, upsell pages, "other people also watched" on youtube and many more corporate, marketing or dopamine attracting shit that the internet have. I'll not even bother to mention the survailance and data sell. I mean you want my data and can't even give me a good product? fuck you. That's why i'm removing stuff that bothers me on the web, and with the magic of open source, i can remove things YOU find annoying too :D
+## philosophy
+i personally hate every single gambling ad, upsell pages, "other people also watched" on youtube and other corporate, dopamine bullshit that the internet have. i'll not even bother to mention the survailance and data sell. that's why i'm removing stuff that bothers me on the web, and with the magic of open source, i can remove things you find annoying too. plus, the config is highly configurable thanks to [personet](https://github.com/betterbrowser/personet).
 
-## Packages
-Packages are the modification the extension does to each listed website, you can disable them through the extension context menu, share, save/backup and restore your custom configurations at east in any moment.
+## packages
+packages are the modifications i've made to each listed website, you can disable or configure them through the extension context menu to make them to your liking.
 | package | Changes | How does it look? |
 | :------ | :-------- | :------------------------- |
-| youtube | <details><summary>Description</summary>- Removes shorts from the main page<br>- Removes "other people also watched" section</details> | <details><summary>Screenshots</summary></details> |
+| youtube | <details><summary>Description</summary>- removes shorts from the main page<br>- removes "other people also watched" section</details> | <details><summary>screenshots</summary></details> |
 
-A personal project by [@nikollesan](https://github.com/luanderfarias)
+create stuff.
