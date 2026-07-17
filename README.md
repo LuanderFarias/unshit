@@ -6,7 +6,7 @@ unshit is a web modification project removes garbage and bloat from webpages.
 ~ installation
 - download [ublock origin](https://github.com/gorhill/uBlock)
 - download [personet](https://github.com/betterbrowser/personet)
-- download the latest unshit.json on releases
+- download the latest unshit.json on [releases](https://github.com/LuanderFarias/unshit/releases)
 - open personet and click on import config
 - select unshit.json
 - doesn't this looks so much better?
