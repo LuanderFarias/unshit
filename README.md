@@ -1,7 +1,7 @@
 ~ unshit [experimental]
 
 unshit is a web modification project removes garbage and bloat from webpages.
-> this project is highly based on my personal thoughts over each website/package modified here.
+> this project is **highly** based on my personal thoughts over each website/package modified here.
 
 ~ installation
 - download [ublock origin](https://github.com/gorhill/uBlock)
@@ -21,8 +21,8 @@ i personally hate every single gambling ad, upsell pages, "other people also wat
 ~ packages
 
 packages are the modifications i've made to each listed website, you can disable or configure them through the extension context menu to make them to your liking.
-| package | Changes | How does it look? |
+| package | changes | how does it look? |
 | :------ | :-------- | :------------------------- |
-| youtube | <details><summary>Description</summary>- removes shorts from the main page<br>- removes "other people also watched" section</details> | <details><summary>screenshots</summary></details> |
+| youtube | <details><summary>description</summary>- removes shorts from the main page<br>- removes "other people also watched" section</details> | <details><summary>screenshots</summary></details> |
 
 create stuff.
